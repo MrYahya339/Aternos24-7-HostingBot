@@ -5,12 +5,12 @@ A Minecraft bot that helps keep an Aternos server online 24/7 by automatically j
 ---
 
 ## ✨ Features
-*   ✅ **Auto-Connect**: Automatically joins your server.
-*   ✅ **Infinite Uptime**: Prevents AFK kicks and server shutdowns.
-*   ✅ **Smart Reconnect**: Automatically reconnects if the internet drops or server restarts.
-*   ✅ **Render-Ready**: Includes "Self-Ping" to run 24/7 for FREE on Render.com.
-*   ✅ **Plugin Support**: Compatible with Paper/Spigot/Bukkit (auto-auth included).
-*   ✅ **Advanced Human Behaviors**:
+*    **Auto-Connect**: Automatically joins your server.
+*    **Infinite Uptime**: Prevents AFK kicks and server shutdowns.
+*    **Smart Reconnect**: Automatically reconnects if the internet drops or server restarts.
+*    **Render-Ready**: Includes "Self-Ping" to run 24/7 for FREE on Render.com.
+*    **Plugin Support**: Compatible with Paper/Spigot/Bukkit (auto-auth included).
+*    **Advanced Human Behaviors**:
     *   **Arm Swinging**: The bot randomly "punches" the air (swings its arm).
     *   **Hotbar Cycling**: The bot randomly switches between its 9 tool slots.
     *   **Teabagging**: The bot performs a rapid sneak sequence (crouching) occasionally.
@@ -51,3 +51,4 @@ This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your o
 *   **Mr.Juice (Discord: Mr.Juice3046)** — Updates, Guide, & Maintenance.
 
 **License**: MIT License
+
